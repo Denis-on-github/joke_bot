@@ -1,0 +1,5 @@
+Stack:
+Requests, BeautifulSoup, telebot, random
+
+Parcing jokes from URL.
+User write the number and bot send some joke.
